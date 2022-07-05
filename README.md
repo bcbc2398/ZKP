@@ -1,1 +1,1 @@
-Zero-Proof Knowledge Verification 
+Zero Knowledge Proof Verification 
